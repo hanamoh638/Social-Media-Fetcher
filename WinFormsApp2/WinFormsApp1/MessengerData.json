@@ -1,0 +1,114 @@
+﻿[
+  {
+    "Participants": [
+      "Toqa Abou-elfotoh",
+      "ParallelTest"
+    ],
+    "Messages": [
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "Let’s go"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "Hey"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "نامي ننة"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "Im sleepingg"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "I will sleep"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "Good night"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "No"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "Hey"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "We are welcome, ms toqa"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "I’m fine thank you"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "How can i help you ?"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "We work 24 hours a day"
+      },
+      {
+        "Sender": "Toqa Abou-elfotoh",
+        "Content": "ما ساعات العمل لديك؟"
+      }
+    ]
+  },
+  {
+    "Participants": [
+      "Hana Mohamed",
+      "ParallelTest"
+    ],
+    "Messages": [
+      {
+        "Sender": "ParallelTest",
+        "Content": "We are welcome 🙏 , Ms Hana"
+      },
+      {
+        "Sender": "Hana Mohamed",
+        "Content": "Thank you for your response"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "With canson paper"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "Febar castle pencil colors\nWith water blended"
+      },
+      {
+        "Sender": "Hana Mohamed",
+        "Content": "What are the materials used in ?"
+      },
+      {
+        "Sender": "ParallelTest",
+        "Content": "The price is 1000 EGP"
+      },
+      {
+        "Sender": "Hana Mohamed",
+        "Content": "How much is the price of a painting (the old man and the sea)?"
+      },
+      {
+        "Sender": "Hana Mohamed",
+        "Content": "Hi"
+      }
+    ]
+  },
+  {
+    "Participants": [
+      "Jomana Soliman",
+      "ParallelTest"
+    ],
+    "Messages": [
+      {
+        "Sender": "ParallelTest",
+        "Content": "Can i assist you ?"
+      }
+    ]
+  }
+]

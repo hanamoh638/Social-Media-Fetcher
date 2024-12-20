@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\parallel docs\\Final\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\instagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\instagram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\fetchdatatimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\fetchdatatimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\facebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\facebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\messenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\messengerdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\messengerdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\savingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\savingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\facebookposts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\facebookposts.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\commentsdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\commentsdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|d:\\parallel docs\\final\\winformsapp2\\winformsapp1\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|D:\\parallel docs\\Final\\WinFormsApp2\\winformsapp1\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AEE894C-0E6E-446C-9BC5-2DDC193FEDC3}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Main.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:51:59.226Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Messenger.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Messenger.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Messenger.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Messenger.cs",
+              "RelativeToolTip": "WinFormsApp1\\Messenger.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:46:24.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Facebook.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Facebook.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Facebook.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Facebook.cs",
+              "RelativeToolTip": "WinFormsApp1\\Facebook.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:11:30.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Main.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Main.cs",
+              "RelativeToolTip": "WinFormsApp1\\Main.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:30:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Instagram.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Instagram.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Instagram.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Instagram.cs",
+              "RelativeToolTip": "WinFormsApp1\\Instagram.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:29:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentsData.json",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\CommentsData.json",
+              "RelativeDocumentMoniker": "WinFormsApp1\\CommentsData.json",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\CommentsData.json",
+              "RelativeToolTip": "WinFormsApp1\\CommentsData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T04:10:24.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FetchDataTimer.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\FetchDataTimer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FetchDataTimer.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\FetchDataTimer.cs",
+              "RelativeToolTip": "WinFormsApp1\\FetchDataTimer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:18:13.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacebookPosts.json",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\FacebookPosts.json",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FacebookPosts.json",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\FacebookPosts.json",
+              "RelativeToolTip": "WinFormsApp1\\FacebookPosts.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T04:18:11.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataFetcher.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\DataFetcher.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\DataFetcher.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\DataFetcher.cs",
+              "RelativeToolTip": "WinFormsApp1\\DataFetcher.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAACwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:11:21.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Message.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Message.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Message.cs",
+              "RelativeToolTip": "WinFormsApp1\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:31:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessengerData.json",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\MessengerData.json",
+              "RelativeDocumentMoniker": "WinFormsApp1\\MessengerData.json",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\MessengerData.json",
+              "RelativeToolTip": "WinFormsApp1\\MessengerData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T04:46:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SavingData.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\SavingData.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\SavingData.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\SavingData.cs",
+              "RelativeToolTip": "WinFormsApp1\\SavingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:31:49.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "WinFormsApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:33:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Comments.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Comments.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Comments.cs",
+              "RelativeToolTip": "WinFormsApp1\\Comments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:44:08.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comments.cs [Design]",
+              "DocumentMoniker": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Comments.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Comments.cs",
+              "ToolTip": "D:\\parallel docs\\Final\\WinFormsApp2\\WinFormsApp1\\Comments.cs [Design]",
+              "RelativeToolTip": "WinFormsApp1\\Comments.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T04:44:06.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
